@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>やぎやぎやー</title>
-    <link>http://example.org/</link>
-    <description>Recent content on やぎやぎやー</description>
+    <title>Blog on やぎやぎやー</title>
+    <link>http://example.org/blog/</link>
+    <description>Recent content in Blog on やぎやぎやー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 19 Feb 2023 20:57:09 +0900</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Feb 2023 20:13:06 +0900</lastBuildDate><atom:link href="http://example.org/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>フェブラリーS</title>
       <link>http://example.org/blog/20230219/</link>
