@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>競馬 on やぎやぎやー</title>
+    <link>http://example.org/tags/%E7%AB%B6%E9%A6%AC/</link>
+    <description>Recent content in 競馬 on やぎやぎやー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Sun, 19 Feb 2023 20:57:09 +0900</lastBuildDate><atom:link href="http://example.org/tags/%E7%AB%B6%E9%A6%AC/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>フェブラリーS</title>
+      <link>http://example.org/blog/20230219/</link>
+      <pubDate>Sun, 19 Feb 2023 20:57:09 +0900</pubDate>
+      
+      <guid>http://example.org/blog/20230219/</guid>
+      <description>今日はフェブラリーステークスという競馬のG1レース（一番すごいクラスのレース）がありました。
+僕が買った馬券は単勝レモンポップ、複勝メイショウハリオ、テイエムサウスダンでした。
+ダートで、正直知らない馬ばかりだったので知ってるのを名前で買いました。レッドルゼルについては長いと思ったので買っていませんでしたが。
+僕は1レース300円しか買わないルールで競馬をやっているので、300円買って、480円帰ってきました。
+回収率にすると160%となって、なんか凄腕の馬券師に見えますね。まあ実際は小学生のおやつ代にも満たないのですが…ｗ。
+今年最初のG1は勝てたということで、このまま続けられるといいなという感じです。
+これが最初のブログ記事となりました。三日坊主にならないと良いなあと思います。
+明後日は楽しみにしているゲームのAtomic Heartの発売なので感想とか書きたいです。明日更新するかは謎です。
+ってかデフォルトの数字フォントやば…直したみ強し</description>
+    </item>
+    
+  </channel>
+</rss>
