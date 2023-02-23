@@ -8,6 +8,17 @@
     <language>ja</language>
     <lastBuildDate>Wed, 15 Feb 2023 20:13:06 +0900</lastBuildDate><atom:link href="http://example.org/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>ポストプロセスとの格闘</title>
+      <link>http://example.org/blog/20230223/</link>
+      <pubDate>Thu, 23 Feb 2023 23:41:59 +0900</pubDate>
+      
+      <guid>http://example.org/blog/20230223/</guid>
+      <description>今日は祝日。一日中DXライブラリで良い感じにポストプロセスをかける方法を試していた。
+しかし上手くいっていない。明日中には見切りをつけて進捗を出したい。
+ある個人サイトで好きなコンテンツ等を大量に書いてるのを見かけた。面白かったのでパクりたい。</description>
+    </item>
+    
+    <item>
       <title>Atomic Heartネタバレちょい有り感想</title>
       <link>http://example.org/blog/20230221/</link>
       <pubDate>Tue, 21 Feb 2023 23:49:35 +0900</pubDate>
