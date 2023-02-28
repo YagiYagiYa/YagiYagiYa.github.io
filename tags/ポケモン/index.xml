@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ゲーム on やぎやぎやー</title>
-    <link>http://example.org/tags/%E3%82%B2%E3%83%BC%E3%83%A0/</link>
-    <description>Recent content in ゲーム on やぎやぎやー</description>
+    <title>ポケモン on やぎやぎやー</title>
+    <link>http://example.org/tags/%E3%83%9D%E3%82%B1%E3%83%A2%E3%83%B3/</link>
+    <description>Recent content in ポケモン on やぎやぎやー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 28 Feb 2023 21:59:02 +0900</lastBuildDate><atom:link href="http://example.org/tags/%E3%82%B2%E3%83%BC%E3%83%A0/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Feb 2023 21:59:02 +0900</lastBuildDate><atom:link href="http://example.org/tags/%E3%83%9D%E3%82%B1%E3%83%A2%E3%83%B3/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ポケモンスリープ楽しみ！！</title>
       <link>http://example.org/blog/20230228/</link>
@@ -20,17 +20,6 @@
 内容は放置ゲーで、寝て起きるとポケモンが見つかるというだけっぽいです。
 でも放置ゲー好きだし、健康に良さそうなので良いです。
 ポケモンGOプラスプラスも朝すぐに予約しました。夜には売り切れていたので買えてよかったです。品薄になりそう感がすごい。</description>
-    </item>
-    
-    <item>
-      <title>スプラのカタログが終わらないよ～</title>
-      <link>http://example.org/blog/20230226/</link>
-      <pubDate>Sun, 26 Feb 2023 09:36:11 +0900</pubDate>
-      
-      <guid>http://example.org/blog/20230226/</guid>
-      <description>もうすぐ3月となりスプラトゥーン3の新シーズンが始まりますが、カタログが終わっていません。カタログというのはスプラトゥーン3におけるシーズンパスのような報酬システムのことです。ランク100まであり、今は91まで進んでいます。
-ランク1上げるのには9500ポイント必要です。ナワバリの勝利で1400負けで500、1日1回はボーナス7500得られる内訳です。
-1シーズンは約90日なので毎日ボーナスポイントを貰っていれば無理なくカタログ完走できる設定ですが、年末年始等さぼっていたので無理でした。1日中スプラをやる時間があれば…。</description>
     </item>
     
   </channel>
