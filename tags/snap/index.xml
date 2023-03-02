@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ゲーム on やぎやぎやー</title>
-    <link>http://example.org/tags/%E3%82%B2%E3%83%BC%E3%83%A0/</link>
-    <description>Recent content in ゲーム on やぎやぎやー</description>
+    <title>SNAP on やぎやぎやー</title>
+    <link>http://example.org/tags/snap/</link>
+    <description>Recent content in SNAP on やぎやぎやー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 02 Mar 2023 23:15:09 +0900</lastBuildDate><atom:link href="http://example.org/tags/%E3%82%B2%E3%83%BC%E3%83%A0/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Mar 2023 23:15:09 +0900</lastBuildDate><atom:link href="http://example.org/tags/snap/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>MARVEL SNAPが神ゲーな理由</title>
       <link>http://example.org/blog/20230302/</link>
@@ -18,32 +18,6 @@
 際限の無いコレクション要素 SNAPには独自のカードを強化する要素があります。強化と言っても、効果や能力値が上がるわけではなく、イラストや枠の色が豪華になる見た目の変化が起きるだけです。このゲームは6段階の強化があり、さらに6段階目まで来ると新たにカードにちょっとしたエフェクトが追加された初期段階ランクのカードを手に入れることが出来ます。このカードを「インフィニティ」と呼び、最大強化するたびに貰えます。新たに手に入れる度に追加されるエフェクトがランダムに決まります。つまり奇麗でレアなエフェクトが付与された、お気に入りカードの入手を目指す際限の無いガチャができるのです。
 トップダウンなデザイン このゲームはキャラゲーとしても優れています。様々なマーベルキャラの特徴をカード効果にきちんと反映して、デザインされているからです。そんなの当たり前だろうと思うかもしれませんが、これが出来ていないカードゲームは意外と多いです。
 スマホ縦持ち！ これは完全に僕の好みですが、ソシャゲは縦持ちだと電車の中で片手で遊べて嬉しいです。縦持ちのゲームはそれだけで評価爆上がりです。</description>
-    </item>
-    
-    <item>
-      <title>ポケモンスリープ楽しみ！！</title>
-      <link>http://example.org/blog/20230228/</link>
-      <pubDate>Tue, 28 Feb 2023 21:59:02 +0900</pubDate>
-      
-      <guid>http://example.org/blog/20230228/</guid>
-      <description>スマートフォン向けアプリ『Pokémon Sleep』が2023年夏にリリース決定！
-スマートフォンを使って、睡眠を計測・記録すると、結果に応じてポケモンたちの寝顔が見られるゲームアプリだよ！
-睡眠リズムを整えて、ポケモンたちのいろいろな寝顔を見つけよう！https://t.co/wA8l00WMcz #ポケモンスリープ pic.twitter.com/jwcm7nXdPr
-&amp;mdash; ポケモン公式ツイッター (@Pokemon_cojp) February 27, 2023 3年前とかに名前だけ発表されてたポケモンスリープがついに発表されました！！
-内容は放置ゲーで、寝て起きるとポケモンが見つかるというだけっぽいです。
-でも放置ゲー好きだし、健康に良さそうなので良いです。
-ポケモンGOプラスプラスも朝すぐに予約しました。夜には売り切れていたので買えてよかったです。品薄になりそう感がすごい。</description>
-    </item>
-    
-    <item>
-      <title>スプラのカタログが終わらないよ～</title>
-      <link>http://example.org/blog/20230226/</link>
-      <pubDate>Sun, 26 Feb 2023 09:36:11 +0900</pubDate>
-      
-      <guid>http://example.org/blog/20230226/</guid>
-      <description>もうすぐ3月となりスプラトゥーン3の新シーズンが始まりますが、カタログが終わっていません。カタログというのはスプラトゥーン3におけるシーズンパスのような報酬システムのことです。ランク100まであり、今は91まで進んでいます。
-ランク1上げるのには9500ポイント必要です。ナワバリの勝利で1400負けで500、1日1回はボーナス7500得られる内訳です。
-1シーズンは約90日なので毎日ボーナスポイントを貰っていれば無理なくカタログ完走できる設定ですが、年末年始等さぼっていたので無理でした。1日中スプラをやる時間があれば…。</description>
     </item>
     
   </channel>
