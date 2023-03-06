@@ -8,6 +8,16 @@
     <language>ja</language>
     <lastBuildDate>Wed, 15 Feb 2023 20:13:06 +0900</lastBuildDate><atom:link href="http://example.org/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>作りたいゲーム１</title>
+      <link>http://example.org/blog/20230306/</link>
+      <pubDate>Mon, 06 Mar 2023 23:36:20 +0900</pubDate>
+      
+      <guid>http://example.org/blog/20230306/</guid>
+      <description>クローンを作るゲーム
+機械を操作して遊ぶ</description>
+    </item>
+    
+    <item>
       <title>ゲーム動画勢の心構え５か条</title>
       <link>http://example.org/blog/20230304/</link>
       <pubDate>Sat, 04 Mar 2023 15:57:08 +0900</pubDate>
