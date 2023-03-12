@@ -8,6 +8,19 @@
     <language>ja</language>
     <lastBuildDate>Wed, 15 Feb 2023 20:13:06 +0900</lastBuildDate><atom:link href="http://example.org/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>呼び出し元で分岐する関数を作らない方法、知らなーい</title>
+      <link>http://example.org/blog/20230312/</link>
+      <pubDate>Sun, 12 Mar 2023 22:40:56 +0900</pubDate>
+      
+      <guid>http://example.org/blog/20230312/</guid>
+      <description>今DXライブラリを使ってゲームを作っています。ゲームのオブジェクトは全て基底クラスであるObjectBaseを継承したものです。そのObjectBaseにMessageEventという関数があります。引数で文字列（メッセージ）とポインタ（送信者）を受け取り、オブジェクト間の通信に利用しています。
+が、この設計はどうやら悪いらしいです。 送信者によって分岐する関数というのは良くないらしいです。あと文字列で管理しているのも不便だとは思います。でも理想的な設計を知らないのでどうしたもんかなぁと思っています。
+ObjectBaseは自作のフレームワーク(.lib)の中で作成しているので、利用される際のクラス型やメンバは分からない為リテラルで何とかするしかないじゃん？って感じです。visitorパターンも型が分かんないと駄目みたいだし…。
+std::fuctionの配列で通信を管理する感じのイベントハンドラ？を作るとかが良いのかなぁ？自分で言いながらピンとは来ていませんが…。
+とにかくやっていくしかないっ。それは唐揚げっ。</description>
+    </item>
+    
+    <item>
       <title>貧血っぽいので対策しよう</title>
       <link>http://example.org/blog/20230310/</link>
       <pubDate>Fri, 10 Mar 2023 20:02:03 +0900</pubDate>

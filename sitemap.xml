@@ -3,10 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://example.org/tags/</loc>
-    <lastmod>2023-03-10T20:02:03+09:00</lastmod>
+    <lastmod>2023-03-12T22:40:56+09:00</lastmod>
+  </url><url>
+    <loc>http://example.org/tags/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0/</loc>
+    <lastmod>2023-03-12T22:40:56+09:00</lastmod>
   </url><url>
     <loc>http://example.org/</loc>
-    <lastmod>2023-03-10T20:02:03+09:00</lastmod>
+    <lastmod>2023-03-12T22:40:56+09:00</lastmod>
+  </url><url>
+    <loc>http://example.org/blog/20230312/</loc>
+    <lastmod>2023-03-12T22:40:56+09:00</lastmod>
   </url><url>
     <loc>http://example.org/tags/%E7%94%9F%E6%B4%BB/</loc>
     <lastmod>2023-03-10T20:02:03+09:00</lastmod>
